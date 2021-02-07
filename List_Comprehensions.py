@@ -1,5 +1,4 @@
-#8 Python If-Else
-
+#8 Python List Comprehensions
 n = 20 # Valor de entrada... 
 
 if n % 2 == 0 and (n<=4 or n >20 ):
